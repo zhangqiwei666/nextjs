@@ -13,7 +13,7 @@ export default function Home() {
     // Router.push({
     //   pathname:'/Xiaojiejie',
     //   query:{
-    //     name:'结衣'
+    //     name:'波多野结衣'
     //   }
     // })
   };
